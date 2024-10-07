@@ -1,5 +1,5 @@
 ## Do We Find That They Rhyme? A Corpus-Based Approach to Analyzing Phonological Similarity Using Imperfect Rhymes
-This project obtains song lyrics and anazlyes them to find patterns in perfect and imperfect rhyming.  The PDF titled Junior_Paper_Gillian_Rosenberg2 provides an extensive description and analysis of the project.
+This project obtains song lyrics and anazlyes them to find patterns in perfect and imperfect rhyming. The PDF provides an extensive description and analysis of the project. This project was completed in partial fullfilment of the partial fulfillment of the requirements for the degree of Bachelor of Arts at Princeton University.
 
 This repository contains two main components: a lyrics scraper and a rhyme collector. Lyrics_Scraper is a Python script (originally written in R by Kaylin Pavlik and converted to Python using ChatGPT) to obtain song lyrics from websites on the internet and save them in a CSV format. Rhyme_collector is a Python tool that processes the CSV file of song lyrics to identify perfect and imperfect rhymes. It then outputs a list of these types of rhymes along with their counts.
 
